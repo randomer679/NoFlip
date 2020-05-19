@@ -1,0 +1,8 @@
+{
+    "Id": "NoFlip",
+    "DisplayName": "NoFlip",
+    "Author": "Randomer679",
+    "Version": "0.1",
+    "EntryMethod": "NoFlip.Main.Load",
+    "AssemblyName": "NoFlip.dll"
+}
